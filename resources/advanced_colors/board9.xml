@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AdvancedColors>
+  <Board>
+  	<pixmapfile>advanced_colors9.jpg</pixmapfile>
+  	<color1>plum</color1>
+		<color2>prussian blue</color2>
+  	<color3>rust</color3>
+		<color4>saffron</color4>
+  	<color5>vanilla</color5>
+		<color6>veronese</color6>
+  	<color7>verdigris</color7>
+		<color8>dark purple</color8>
+  </Board>
+</AdvancedColors>

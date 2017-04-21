@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AdvancedColors>
+  <Board>
+  	<pixmapfile>advanced_colors6.jpg</pixmapfile>
+  	<color1>dove</color1>
+		<color2>garnet</color2>
+  	<color3>indigo</color3>
+		<color4>ivory</color4>
+  	<color5>jade</color5>
+		<color6>lavender</color6>
+  	<color7>lichen</color7>
+		<color8>wine</color8>
+  </Board>
+</AdvancedColors>

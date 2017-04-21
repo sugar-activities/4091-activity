@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AdvancedColors>
+  <Board>
+  	<pixmapfile>advanced_colors7.jpg</pixmapfile>
+  	<color1>lilac</color1>
+		<color2>magenta</color2>
+  	<color3>malachite</color3>
+		<color4>navy</color4>
+  	<color5>larch</color5>
+		<color6>mimosa</color6>
+  	<color7>ochre</color7>
+		<color8>olive</color8>
+  </Board>
+</AdvancedColors>

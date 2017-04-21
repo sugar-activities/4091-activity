@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AdvancedColors>
+  <Board>
+  	<pixmapfile>advanced_colors1.jpg</pixmapfile>
+  	<color1>coral</color1>
+		<color2>claret</color2>
+  	<color3>sienna</color3>
+		<color4>corn</color4>
+  	<color5>cobalt</color5>
+		<color6>cyan</color6>
+  	<color7>chestnut</color7>
+		<color8>almond</color8>
+  </Board>
+</AdvancedColors>
